@@ -32,6 +32,11 @@
 		"src_corner_width"		"50"
 		"draw_corner_width"		"11"
 		"draw_corner_height" 	"11"
+
+		if_mvm
+		{
+			"visible"								"0"
+		}
 	}
 	
 	"scores"
